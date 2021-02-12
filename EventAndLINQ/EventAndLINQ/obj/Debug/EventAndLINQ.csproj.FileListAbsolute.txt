@@ -1,0 +1,14 @@
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.exe.config
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.exe
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.pdb
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.csprojAssemblyReference.cache
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.exe
+C:\Users\Adrien\source\repos\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.pdb
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.exe.config
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.exe
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\bin\Debug\EventAndLINQ.pdb
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.csprojAssemblyReference.cache
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.exe
+C:\Users\Adrien\source\repos\EventPracticeCorrection\EventAndLINQ\EventAndLINQ\obj\Debug\EventAndLINQ.pdb
